@@ -56,8 +56,8 @@ La API proporciona información sobre los productos, incluyendo su identificador
 
 | **Métrica** | **Resultado** |
 |---|---|
-| Tiempo de desarrollo | Pendiente de registrar |
-| Líneas de código | 588 |
+| Tiempo de desarrollo | 2 hrs |
+| Líneas de código | 548 |
 | Bundle de producción | Pendiente de medir |
 | Lighthouse - Performance | Pendiente de medir |
 | Lighthouse - Accessibility | Pendiente de medir |
